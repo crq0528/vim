@@ -1,7 +1,4 @@
-# @Time : 2024/5/13
-# @Author : Johnny Haytham
-# @Location : Beijing
-# @File : DeMamba.py
+
 import torch
 import torch.nn as nn
 from timm.models.layers import DropPath,to_2tuple
